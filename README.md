@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-mattos-729a7419a/)](https://www.linkedin.com/in/jonathan-mattos-729a7419a/)
-![Discord](https://img.shields.io/badge/-Discord-7289da?labelColor=7289da&logo=discord&logoColor=white&label=MUTE%236506)
+[![Discord](https://img.shields.io/badge/-Discord-7289da?labelColor=7289da&logo=discord&logoColor=white&label=MUTE%236506)]()
 
 ## Sobre mim
 
