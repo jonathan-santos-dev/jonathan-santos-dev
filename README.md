@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**jonathan-santos-dev/jonathan-santos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 	👨🏻‍💻 𝕊𝔼𝕁𝔸 𝔹𝔼𝕄 𝕍𝕀ℕ𝔻𝕆 𝔸𝕆 𝕄𝔼𝕌 𝔾𝕀𝕋ℍ𝕌𝔹 👨🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☕️Java☕️
+## 🍃Spring🍃
+## 🐬MySQL🐬
+## ✅ ℂ𝕊𝕊 ✅
+## ✅ ℍ𝕋𝕄𝕃 ✅
+## 🅰️Angular🅰️
+
+
+
+## 👾 Fique a vontade e de uma olhada nos meus Projetos👾
+
+
+
+![]()
+</p>
+
+
+
+
