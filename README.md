@@ -28,6 +28,7 @@ Gosto bastante de desenvolver aplicações Back End com nodejs.
 ## Tecnologias que tenho experiencia
 
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-fff?&logo=vue.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=bootstrap&logoColor=563D7C)
 ![Material-UI](https://img.shields.io/badge/-Material%5FUI-fff?&logo=Material-UI&logoColor=0081CB)
 ![Webpack](https://img.shields.io/badge/-Webpack-fff?&logo=webpack)
