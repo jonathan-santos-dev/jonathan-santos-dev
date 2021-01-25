@@ -1,5 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-mattos-729a7419a/)](https://www.linkedin.com/in/jonathan-mattos-729a7419a/)
+[![Mail](https://img.shields.io/badge/-Email-white?labelColor=white&logo=gmail&color=white)](mailto:jonathan.santos1635@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-7289da?labelColor=7289da&logo=discord&logoColor=white&label=MUTE%236506)]()
+
 
 ## Sobre mim
 
@@ -23,18 +25,15 @@ Gosto bastante de desenvolver aplicações Back End com nodejs.
 ![C](https://img.shields.io/badge/-C-fff?&logo=C&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 
-## Tecnologias que eu atualmente uso
+## Tecnologias que tenho experiencia
 
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=bootstrap&logoColor=563D7C)
 ![Material-UI](https://img.shields.io/badge/-Material%5FUI-fff?&logo=Material-UI&logoColor=0081CB)
 ![Webpack](https://img.shields.io/badge/-Webpack-fff?&logo=webpack)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
+![Windows](https://img.shields.io/badge/-Windows-fff?&logo=Windows&logoColor=blue)
 ![Arduino](https://img.shields.io/badge/-Arduino-fff?&logo=Arduino)
-
-
-
-
-
