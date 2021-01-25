@@ -25,7 +25,7 @@ Gosto bastante de desenvolver aplicações Back End com nodejs.
 ![C](https://img.shields.io/badge/-C-fff?&logo=C&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
 
-## Tecnologias que tenho experiencia
+## Tecnologias que tenho experiência
 
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-fff?&logo=vue.js)
