@@ -35,6 +35,7 @@ E também aplicações Front-End com Next.js (React).
 [![Webpack](https://img.shields.io/badge/-Webpack-fff?&logo=webpack)](https://github.com/jonathan-santos-dev?tab=repositories)
 [![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)](https://github.com/jonathan-santos-dev?tab=repositories)
 [![Next.js](https://img.shields.io/badge/-Next.js-fff?logo=next.js&logoColor=black)](https://github.com/jonathan-santos-dev?tab=repositories)
+[![Expressjs](https://img.shields.io/badge/-Express-fff?&logo=Express&logoColor=black)](https://github.com/jonathan-santos-dev?tab=repositories)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-fff?logo=nuxt.js)](https://github.com/jonathan-santos-dev?tab=repositories)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)](https://github.com/jonathan-santos-dev?tab=repositories)
 [![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL)](https://github.com/jonathan-santos-dev?tab=repositories)
