@@ -8,6 +8,7 @@
 Olá, sou desenvolver Full Stack, que gosto de aprender novas tecnologias.
 Tenho um grande interesse em engenharia reversa.
 Gosto bastante de desenvolver aplicações Back End com nodejs.
+E também aplicações front-end com Next.js(React).
 
 - 👾 Fique a vontade e de uma olhada nos meus Projetos👾
 
