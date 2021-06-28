@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Olá, sou desenvolver Full-Stack, que gosto de aprender novas tecnologias.
+Olá, sou desenvolvedor Full-Stack, que gosto de aprender novas tecnologias.
 Tenho um grande interesse em engenharia reversa.
 Gosto bastante de desenvolver aplicações Back-End com Node.js.
 E também aplicações Front-End com Next.js (React).
